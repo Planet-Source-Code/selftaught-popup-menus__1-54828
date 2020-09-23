@@ -1,0 +1,4 @@
+VBGROUP 5.0
+Project=vbComDll\Popup\Project1.vbp
+Project=vbBase\vbBase.vbp
+StartupProject=vbComDll\Popup\Test\Project1.vbp
